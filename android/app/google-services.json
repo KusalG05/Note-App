@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473964200058",
+    "project_id": "flopkart-aac71",
+    "storage_bucket": "flopkart-aac71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473964200058:android:842e5541536c0a92ac3bc3",
+        "android_client_info": {
+          "package_name": "com.example.flopkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473964200058-ju0dbuvtp3rt0ii5012t8n9ti68jcnlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0jCBEKWqNkJbVd5UmdzqcGtwepXBJ0KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473964200058-ju0dbuvtp3rt0ii5012t8n9ti68jcnlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
